@@ -172,6 +172,10 @@ I did a lot of styling for the app as well, ensuring the fonts and displays were
 
 For the backend I wrote authorisation tests for login and register to ensure they worked correctly. 
 
+
+**<h1>Key Learnings</h1>**
+Working as part of a team, and pushing to the same github without causing clashes was a huge learning. I gained a huge amount of understanding about how all push to the same repository sensibly and responsibly, without loosing work. I also gained a lot of soft skills in terms of team-work, delegation and how clear communication can lead to a successfull end product. 
+
 **<h1>Challenges and Wins</h1>**
 
 I found using the third party cloudinary component tricky at times, as this was my first experience in using it's functionality in different ways. I also find it challening to get the information from logbook completion form to display correctly on the same page (which already had a lot of moving parts), rather then push the user to a new page. I was extremely pleased when I managed to get this to work sucessfully.
